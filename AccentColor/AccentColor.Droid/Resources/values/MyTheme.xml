@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="AppTheme" parent="android:Theme.Material">
+    <item name="android:colorPrimary">@color/primary</item>
+    <item name="android:colorPrimaryDark">@color/primary_dark</item>
+    <item name="android:colorAccent">@color/accent</item>
+    <item name="android:editTextBackground">@drawable/apptheme_edit_text_holo_light</item>
+  </style>
+  
+  <!-- Colors -->
+  <color name="primary">#f91816</color>
+  <color name="primary_dark">#B2f91816</color>
+  <color name="accent">#FF0000</color>
+</resources>
